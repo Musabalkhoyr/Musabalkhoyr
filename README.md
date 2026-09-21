@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mus'ab 👋
 
-<!--
-**Musabalkhoyr/Musabalkhoyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical/Electronics Engineering student at Kwara State University, building a parallel path into network and security engineering.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚩 Currently prepping for the **NITDA x Cisco CTF Competition 2026** — three Cisco Networking Academy courses (Endpoint Security, Network Defense, Cyber Threat Management), then a live CTF on Oct 15.
+
+📡 Longer-term: a self-directed 12-month path through networking, Linux, Python, and cybersecurity fundamentals.
+
+## Focus areas
+
+`VLANs` `OSPF` `STP` `LACP` `VXLAN` `Linux` `Python` `Windows PowerShell` `Cisco Packet Tracer` `Network Security`
+
+## Featured
+
+- [nitda-ctf-2026](your-repo-link-here) — Cisco courses, CTF prep, and the competition write-up
+- [tech-journey](your-repo-link-here) — ongoing 12-month networking/security learning log
+
+## Connect
+
+[LinkedIn](your-linkedin-link-here)
+
